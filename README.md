@@ -6,3 +6,7 @@ A sequential list of Arduino projects sorted difficulty level wise that a person
 ![](https://img.shields.io/github/issues/agneay/Arduino_Projects?style=for-the-badge)
 ![](https://img.shields.io/github/stars/agneay/Arduino_Projects?style=for-the-badge)
 ![](https://img.shields.io/github/license/agneay/Arduino_Projects?style=for-the-badge)
+
+---
+## List of Projects
+- ![automatic soil watering](https://github.com/agneay/Arduino_Projects/tree/main/automatic%20soil%20watering)
