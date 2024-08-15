@@ -1,5 +1,17 @@
 # AUTOMATIC SOIL WATERING
 
+## List of items required for project
+- Arduino uno board
+- Soil Moisture sensor
+- Water Pump
+- 4x 1.5 volt batter
+- breadboard
+- 2x LED
+- 2x Resistor
+- few jumper wires
+- NMOS
+  
+
 ## Circuit diagram [using TinkerCAD]
 ![](https://github.com/agneay/Arduino_Projects/blob/main/automatic%20soil%20watering/IRRIGATION.png)
 
